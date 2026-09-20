@@ -1,9 +1,9 @@
 # Olá, eu sou a Ruth Curvello! 👋
 
 ### 👩‍💻 Sobre mim
-Atuo no setor da Saúde e estou a expandir a minha atuação para integrar **Tecnologia, Dados e Gestão**, unindo a experiência prática da área biomédica com a inovação digital. Cursando **Análise e Desenvolvimento de Sistemas (ADS)**, procuro aplicar soluções tecnológicas para otimizar processos, analisar dados e criar plataformas eficientes.
+Atuo unindo **inteligência de dados, processos e tecnologia** para transformar a operação na área da saúde[cite: 12]. Com formação de base em **Biomedicina**, especialização em **Gestão em Saúde** e **MBA em Big Data e Inteligência Competitiva**, amplio a minha atuação na área de tecnologia através do curso de **Análise e Desenvolvimento de Sistemas (ADS)**[cite: 12].
 
-Possuo especializações em **Big Data, Inteligência Competitiva e Gestão em Saúde**, o que me dá uma visão estratégica para conectar as necessidades da saúde com o poder da tecnologia.
+Tenho experiência sólida em **operações laboratoriais, inteligência de processos e governança de dados setoriais**[cite: 12]. O meu foco principal está na melhoria contínua, padronização e automação de rotinas, utilizando a tecnologia e a análise de dados para apoiar tomadas de decisão e gerar eficiência operacional[cite: 12].
 
 ---
 
